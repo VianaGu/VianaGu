@@ -18,4 +18,4 @@
   
  <h3>📱 &nbsp; Contacts</h3> 
   <a href = "mailto:gustaolive1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = https://wa.me/5514981581780?text=teste>whats</a>
+<a href = https://wa.me/5514981581780?text=teste><img src=https://cdn-icons-png.flaticon.com/128/2111/2111774.png></a>
