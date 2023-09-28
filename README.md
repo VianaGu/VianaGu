@@ -1,6 +1,13 @@
 ## Oiii! Eu sou o Gustavo Oliveira Viana
 
+#### Seja muito bem vindo ao meu Github  
+Aqui você encontra um pouco das "experiências" com determinadas linguagens  
+Você quer ver **HTML, CSS e JS** temos esse repositório [aqui](https://github.com/VianaGu/PartidoArquitetonicoof)  
+Digamos que você quer saber o que já fiz em **JAVA** [clique aqui](https://github.com/VianaGu/THE_LAST_COIN)  
 
+Estes sãos os meus melhores projetos mas não sãos os unicos, como você pode ver por esse README.md também me viro bem com **MARKDOWN**  
+
+#### Aqui em baixo ⬇ são meus stats do github 
  <div>
   <a href="https://github.com/gustavolive0603">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VianaGu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
