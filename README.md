@@ -11,7 +11,7 @@ Estes sãos os meus melhores projetos mas não sãos os unicos, como você pode 
  <div>
   <a href="https://github.com/VianaGu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VianaGu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VianaGu&theme=radical&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VianaGu&theme=radical&layout=donut&langs_count=7"/>
 </div>
 
 <div style="display: inline_block"><br>
